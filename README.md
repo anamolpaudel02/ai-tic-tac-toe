@@ -49,4 +49,4 @@ http://127.0.0.1:5000/
 
 The AI is strong because it checks every possible move (so it won’t lose easily unless you make a mistake)
 
-If you want, I can also make this README look like a **GitHub trending project (more attractive + badges + screenshots section)**.
+
